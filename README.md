@@ -14,11 +14,11 @@ Implementa una solución en Java que cumpla con la lógica descrita. Usa la plan
 3. Abre `Main.java` y escribe tu solución.
 4. ¡Comparte tu solución con la comunidad!
 ---
-###Solución al Reto "Miércoles de Locura" - Reglas de Promoción
+### Solución al Reto "Miércoles de Locura" - Reglas de Promoción
 
 **Proyecto**: challenge-promo-rules  
 **Rama**: feature/week-10-promo-rules  
-**Autor**: xsoto-developer  
+**Autor**: Ximena Soto Salvador  
 **Objetivo**: Implementar una solución híbrida que cumpla con el reto de reglas de promoción, demostrando habilidades avanzadas en Java y Spring Boot para el equipo técnico de Walmart-Tech-Mexico.
 
 Este documento describe la solución desarrollada para el reto "Miércoles de Locura" (nivel intermedio) del repositorio [Walmart-Tech-Mexico/challenge-promo_rules](https://github.com/Walmart-Tech-Mexico/challenge-promo_rules.git). La solución incluye dos enfoques: una **versión básica** en Java puro que cumple estrictamente con las instrucciones del reto original, y una **versión avanzada** como microservicio Spring Boot que muestra prácticas modernas, patrones de diseño, principios SOLID, y herramientas como Swagger, H2, y JUnit 5. La implementación está diseñada para ser desacoplada, mantenible, y escalable, alineada con estándares de desarrollo profesional.
